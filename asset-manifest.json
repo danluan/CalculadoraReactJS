@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/CalculadoraReactJS/static/css/main.aa478a40.css",
+    "main.js": "/CalculadoraReactJS/static/js/main.d86aa5fb.js",
+    "static/js/787.a0d8d0d4.chunk.js": "/CalculadoraReactJS/static/js/787.a0d8d0d4.chunk.js",
+    "static/media/RobotoMono-Thin.ttf": "/CalculadoraReactJS/static/media/RobotoMono-Thin.1a9534fd24de76752477.ttf",
+    "index.html": "/CalculadoraReactJS/index.html",
+    "main.aa478a40.css.map": "/CalculadoraReactJS/static/css/main.aa478a40.css.map",
+    "main.d86aa5fb.js.map": "/CalculadoraReactJS/static/js/main.d86aa5fb.js.map",
+    "787.a0d8d0d4.chunk.js.map": "/CalculadoraReactJS/static/js/787.a0d8d0d4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa478a40.css",
+    "static/js/main.d86aa5fb.js"
+  ]
+}
